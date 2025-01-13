@@ -7,3 +7,5 @@ document.write("현재의 시각은 " + display);
 ```
 
 코드
+
+<https://naver.com>
