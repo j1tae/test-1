@@ -8,4 +8,4 @@ document.write("현재의 시각은 " + display);
 
 코드
 
-<https://naver.com>
+![설경](./images/설경.jpg)
